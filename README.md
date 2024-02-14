@@ -1,5 +1,5 @@
 ### Hello, my name is Betsy.
-I can be contacted via **[LinkedIn](https://www.linkedin.com/in/maobetsy/)**.
+:envelope: I can be contacted via **[LinkedIn](https://www.linkedin.com/in/maobetsy/)**.
 ```
 const myTools = {
   "fundamental": ["html", "css", "javascript"],
