@@ -1,15 +1,5 @@
 ### Hello, my name is Betsy.
 :envelope: I can be contacted via **[LinkedIn](https://www.linkedin.com/in/maobetsy/)**.
-```
-const myTools = {
-  "fundamental": ["html", "css", "javascript"],
-  "frontend": ["react"],
-  "backend": ["nodejs", "express"],
-  "database": ["mongodb", "firebase"],
-  "css": ["bootstrap", "sass"],
-  "design": ["figma"],
-};
-```
 
 <!--
 **betsymao/betsymao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,4 +14,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+```
+const myTools = {
+  "fundamental": ["html", "css", "javascript"],
+  "frontend": ["react"],
+  "backend": ["nodejs", "express"],
+  "database": ["mongodb", "firebase"],
+  "css": ["bootstrap", "sass"],
+  "design": ["figma"],
+};
+```
+
 -->
