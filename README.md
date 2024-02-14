@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hello, my name is Betsy.
+I can be contacted via **[LinkedIn](https://www.linkedin.com/in/maobetsy/)**.
+```
+const myTools = {
+  "fundamental": ["html", "css", "javascript"],
+  "frontend": ["react"],
+  "backend": ["nodejs", "express"],
+  "database": ["mongodb", "firebase"],
+  "css": ["bootstrap", "sass"],
+  "design": ["figma"],
+}
+```
 
 <!--
 **betsymao/betsymao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
