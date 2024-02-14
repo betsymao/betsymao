@@ -8,7 +8,7 @@ const myTools = {
   "database": ["mongodb", "firebase"],
   "css": ["bootstrap", "sass"],
   "design": ["figma"],
-}
+};
 ```
 
 <!--
