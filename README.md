@@ -1,4 +1,6 @@
 ### Hello, my name is Betsy.
+:computer: View projects on my **[portfolio](https://betsymao.onrender.com/)**.
+
 :envelope: I can be contacted via **[LinkedIn](https://www.linkedin.com/in/maobetsy/)**.
 
 <!--
