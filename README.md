@@ -1,7 +1,7 @@
 ### Hello, my name is Betsy.
-:computer: View projects on my **[portfolio](https://betsymao.onrender.com/)**.
+:computer: View projects on my [portfolio](https://betsymao.onrender.com/).
 
-:envelope: I can be contacted via **[LinkedIn](https://www.linkedin.com/in/maobetsy/)**.
+:envelope: I can be contacted via [LinkedIn](https://www.linkedin.com/in/maobetsy/).
 
 <!--
 **betsymao/betsymao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
